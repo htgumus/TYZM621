@@ -1,2 +1,2 @@
-# TYZM621
+# Zararlı Yazılım Analizi - Java
 TYZM-621
